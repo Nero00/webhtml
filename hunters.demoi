@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Pokemon Table</title>
+	</head>
+	<body>
+		<thead>	<tr>
+			<td>Image</td>
+			<td>Name</td>
+			<td>Tyoe</td>
+			<td>Evolves Info</td>
+		</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><img src="https://vignette4.wikia.nocookie.net/pokemon/images/2/21/001Bulbasaur.png" alt="" class="img-rounded center-block"></td>
+				<td></td>
+				<td></td>
+			</tr>
+
+		</tbody>
+	</body>
+</html>
